@@ -1,7 +1,5 @@
 # Programming Roadmap - Solutions & Practice
 
-Practical implementations and solutions for Dr. Mohammed Abu-Hadhoud's Programming and Logic Roadmap projects.
-
 ---
 
 ### 🎯 Purpose of this Repository
