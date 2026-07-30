@@ -1,6 +1,6 @@
 # Programming Roadmap - Solutions & Practice
 
----
+
 
 ### 🎯 Purpose of this Repository
 - Apply and master programming concepts and Problem Solving logic.
@@ -13,7 +13,7 @@
 Codes and resources are organized in separate folders based on course number and topic, updated continuously with each new milestone.
 
 ---
----
+
 
 <div dir="rtl">
 
