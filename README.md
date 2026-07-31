@@ -1,6 +1,7 @@
 # Programming Roadmap - Solutions & Practice
 
 
+<br> 
 
 ### 🎯 Purpose of this Repository
 - Apply and master programming concepts and Problem Solving logic.
@@ -9,11 +10,14 @@
 
 ---
 
+<br>
+
 ### 📁 Content & Structure
 Codes and resources are organized in separate folders based on course number and topic, updated continuously with each new milestone.
 
 ---
 
+<br>
 
 <div dir="rtl">
 
@@ -23,6 +27,7 @@ Codes and resources are organized in separate folders based on course number and
 - الاحتفاظ بسجل عملي ومكتوب للتطبيقات والمشاريع التي تم إنجازها.
 
 ---
+<br>
 
 ### 📁 المحتوى والتنظيم:
 يتم تنظيم الأكواد والمحتويات داخل مجلدات مستقلة بحسب رقم ونوع الكورس، ويتم تحديثها باستمرار مع كل مرحلة جديدة.
