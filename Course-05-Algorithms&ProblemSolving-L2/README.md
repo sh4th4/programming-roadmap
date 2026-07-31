@@ -20,11 +20,11 @@
 
 ## المشاريع المضمنة:
 ### Project 1: Rock Paper Scissors Game
-* **My Solution**: [My Solution](./Project-1/My-Solution/)
-* **Instructor Solution**: [Instructor Solution](./Project-1/Instructor-Solution)
+* **My Solution**: [My Solution](./Project-1-RPS-Game/divisionIsReady_try2/)
+* **Instructor Solution**: [Instructor Solution](./Project-1-RPS-Game/zDoctorCode/)
 
 <br>
 
 ### Project 2: Math Quiz 
-* **My Solution**: [My Solution](./Project-2/My-Solution/)
-* **Instructor Solution**: [Instructor Solution](./Project-2/Instructor-Solution)
+* **My Solution**: [My Solution](./Math-Game/My-Solution_try2/)
+* **Instructor Solution**: [Instructor Solution](./Math-Game/zDrCode)
